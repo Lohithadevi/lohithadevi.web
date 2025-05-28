@@ -1,1 +1,1 @@
-# lohithadevi.web
+# portfolio_lohithadevi
